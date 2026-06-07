@@ -1,3 +1,4 @@
+streamlit # web app framework
 # utilities 
 numpy
 pandas
@@ -10,10 +11,13 @@ git+https://github.com/ageitgey/face_recognition_models
 setuptools<70.0.0
 
 
+
 supabase # database
 bcrypt # password hashing
 
 segno # qr code generator
 pillow # image processing
 
-streamlit # web app framework
+
+librosa
+resemblyzer
